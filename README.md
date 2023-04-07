@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/26841238/230651884-55c84ade-93cb-4893-
 As técnicas e tecnologias utilizadas no projeto são:
 
 - `Expo`: tecnologia para simplificar o ambiente de desenvolvimento
+- `Axios`: para fazer requisições
 - `Componentes React Native`: componentes já existentes básicos da tecnologia para compor a tela
   - `Text`: componente para exibir textos
   - `View`: container para blocos de componentes
