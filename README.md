@@ -2,7 +2,9 @@
 
 Este projeto implementa uma busca de perfil do GitHub, consumindo a API oficial da plataforma apenas com o protocolo http GET, os demais protocolos são restritos.
 
-https://user-images.githubusercontent.com/26841238/230651884-55c84ade-93cb-4893-9747-f28baada59c5.mov
+| Android | iOS |
+| --- | ---|
+| https://user-images.githubusercontent.com/26841238/230651884-55c84ade-93cb-4893-9747-f28baada59c5.mov | ![.](img/ios.gif) |
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
